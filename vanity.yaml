@@ -1,8 +1,5 @@
-host: rakyll.pizza
+host: go.kubeshield.dev
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
-
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /bpf-opa-demo:
+    repo: https://github.com/kubeshield/bpf-opa-demo
