@@ -3,5 +3,7 @@ host: kubeshield.dev
 paths:
   /bpf-opa-demo:
     repo: https://github.com/kubeshield/bpf-opa-demo
-  /whoami:
-    repo: https://github.com/kubeshield/whoami
+  /identity-server:
+    repo: https://github.com/kubeshield/identity-server
+  /installer:
+    repo: https://github.com/kubeshield/installer
