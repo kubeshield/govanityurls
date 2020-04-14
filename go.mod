@@ -1,4 +1,4 @@
-module go.kubeshield.dev/govanityurls
+module kubeshield.dev/govanityurls
 
 go 1.12
 
