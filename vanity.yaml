@@ -1,6 +1,8 @@
 host: kubeshield.dev
 
 paths:
+  /auditor:
+    repo: https://github.com/kubeshield/auditor
   /bpf-opa-demo:
     repo: https://github.com/kubeshield/bpf-opa-demo
   /identity-server:
